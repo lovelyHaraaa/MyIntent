@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah activity dengan data</string>
+    <string name="move_with_object">Pindah actvity dengan objek</string>
+    <string name="dial_number">Dial a number</string>
+    <string name="move_with_result">Pindah activity untuk result</string>
+    <string name="result_from_activity">Hasil dari activity</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data diterima</string>
+    <string name="object_received">Objek diterima</string>
+    <string name="this_is_moveActivity">This is move activity</string>
+</resources>
